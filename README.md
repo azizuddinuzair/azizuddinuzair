@@ -11,11 +11,13 @@ Hey there! I'm Uzair Azizuddin, a passionate tech enthusiast and an aspiring sof
 
 
 🛠️ Current Projects:
-[Checkers Game]((https://github.com/fialh/CheckersClash)): Co-creator of an AI-powered checkers game using C++ that uses the Minimax algorithm to enhance gameplay strategy.
+
+[Checkers Clash](https://github.com/fialh/CheckersClash): Co-creator of an AI-powered checkers game using C++ that uses the Minimax algorithm to enhance gameplay strategy.
+
   
   
-Fake News Detector: Creator & Developer of a machine learning-based application to identify and classify fake news articles. Collaborated with a team to research, design, and implement   natural language processing (NLP) techniques for text analysis. Designed and trained a model using Python and relevant libraries to improve detection accuracy.
-  Check it out here! -> [github.com/azizuddinuzair/FakeNewsDetector]
+[Fake News Detector](https://github.com/azizuddinuzair/FakeNewsDetector): Creator & Developer of a machine learning-based application to identify and classify fake news articles. Collaborated with a team to research, design, and implement   natural language processing (NLP) techniques for text analysis. Designed and trained a model using Python and relevant libraries to improve detection accuracy.
+  Check it out here! -> github.com/azizuddinuzair/FakeNewsDetector
 
 🏆 Previous Projects:
 
