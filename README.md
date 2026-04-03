@@ -25,6 +25,7 @@ I'm a junior-year student passionate about **Machine Learning, AI, and building 
 ## ***Current Projects***
 - **[Personalized Load Recommendations via Effective Load Delta](https://github.com/azizuddinuzair/delta-strength-progression)**: : ML system predicting next-session strength-training loads using historical user data, applying per-user calibration and safe fallback rules under sparse data conditions.
 - **[Telco Customer Churn Prediction](https://github.com/azizuddinuzair/telco-churn-predictor)**: Built ML pipelines to predict customer churn, leveraging feature engineering, model evaluation (K-Nearest Neighbors, Random Forest, Logistic Regression), and insight generation from feature importance.
+- **[Pokemon Team Generator/Analyzer]([https://github.com/azizuddinuzair/delta-strength-progression](https://github.com/acm-uic/SIG-AI-Project-Track-Fall-2026))**: Built a genetic algorithm–based team optimization system with asynchronous execution and a Streamlit interface. Implemented a bounded process pool for CPU-heavy workloads, session-scoped SQLite persistence, and non-blocking UI workflows to improve performance and usability.
 
 
 
